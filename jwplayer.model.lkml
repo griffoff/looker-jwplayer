@@ -12,3 +12,5 @@ datagroup: jwplayer_default_datagroup {
 }
 
 persist_with: jwplayer_default_datagroup
+
+explore: cengage {}
